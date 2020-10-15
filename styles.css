@@ -1,14 +1,23 @@
-* {
+body {
   margin:0px;
   padding:0px;
 }
-
+img{
+  margin: 30px auto;
+  
+}
 #octocat {
   display: block;
   width:384px;
   margin: 50px auto;
 }
+ul{
+ color : blue;
+}
 
+li{
+  background-color: lightgrey;
+}
 p {
   display: block;
   width: 400px;
